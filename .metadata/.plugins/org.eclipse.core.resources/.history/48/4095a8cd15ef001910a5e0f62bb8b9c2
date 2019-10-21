@@ -1,0 +1,19 @@
+package com.anisha;
+
+import java.util.List;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface EmployDAO extends CrudRepository<Employ, Integer> {
+	
+//	public void addEmployee(Employ employee);
+//
+//	public List<Employ> getAllEmployees(); 
+//
+//	public void  deleteEmployee(Integer empno);
+//
+//	public Employ updateEmployee(Employ employee);
+
+//	public Employ getEmploy(int employeeid);
+
+}

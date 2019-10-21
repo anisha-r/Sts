@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SpringBootDemoApplicationTests" project="springbootjunit" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="com.howtodoinjava.rest.SpringBootDemoApplicationTests" time="0.454">
+    <testcase name="testGetEmployeeListSuccess" classname="com.howtodoinjava.rest.SpringBootDemoApplicationTests" time="0.332"/>
+    <testcase name="testAddEmployeeMissingHeader" classname="com.howtodoinjava.rest.SpringBootDemoApplicationTests" time="0.021"/>
+    <testcase name="testAddEmployeeSuccess" classname="com.howtodoinjava.rest.SpringBootDemoApplicationTests" time="0.083"/>
+    <testcase name="testGetEmployeeListSuccessWithHeaders" classname="com.howtodoinjava.rest.SpringBootDemoApplicationTests" time="0.018"/>
+  </testsuite>
+</testrun>

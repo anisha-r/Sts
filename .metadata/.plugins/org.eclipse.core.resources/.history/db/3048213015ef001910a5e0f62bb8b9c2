@@ -1,0 +1,16 @@
+package com.anisha;
+
+import java.util.List;
+
+public interface EmployDAO {
+	public void addEmployee(Employ employee);
+
+	public List<Employ> getAllEmployees();
+
+	public void deleteEmployee(Integer empno);
+
+	public Employ updateEmployee(Employ employee);
+
+	public Employ getEmployee(int employeeid);
+
+}
